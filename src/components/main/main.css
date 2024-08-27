@@ -57,19 +57,19 @@
   box-shadow: 0 2px 4px rgba(140, 140, 141, 0.549);
   transition: 0.3s ease;
 }
-.main .secContent .singleDestination .imgDiv {
+.main .secContent .singleDestination .imageDiv {
   height: 180px;
   width: 100%;
   overflow: hidden;
 }
-.main .secContent .singleDestination .imgDiv img {
+.main .secContent .singleDestination .imageDiv img {
   height: 100%;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
   transition: 2s ease;
 }
-.main .secContent .singleDestination .imgDiv:hover img {
+.main .secContent .singleDestination .imageDiv:hover img {
   transform: scale(1.1);
 }
 .main .secContent .singleDestination .cardInfo {

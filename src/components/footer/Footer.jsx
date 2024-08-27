@@ -1,5 +1,5 @@
 import './footer.css';
-import video from '../../assets/waves.mp4'
+import video from '../../assets/footer.mp4'
 import { FiSend } from "react-icons/fi";
 import { MdTravelExplore } from "react-icons/md";
 import { AiOutlineTwitter } from "react-icons/ai";

@@ -1,6 +1,6 @@
 
 import './home.css'
-import video from '../../assets/video.mp4'
+import video from '../../assets/header.mp4'
 import { GrLocation } from "react-icons/gr";
 import { HiFilter } from "react-icons/hi";
 import { FiFacebook } from "react-icons/fi";
